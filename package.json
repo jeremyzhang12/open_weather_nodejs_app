@@ -1,0 +1,26 @@
+{
+  "name": "open_weather_nodejs_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyzhang12/open_weather_nodejs_app.git"
+  },
+  "keywords": [
+    "open_weather_nodejs_app"
+  ],
+  "author": "jingtian_zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyzhang12/open_weather_nodejs_app/issues"
+  },
+  "homepage": "https://github.com/jeremyzhang12/open_weather_nodejs_app#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^13.2.0"
+  }
+}
